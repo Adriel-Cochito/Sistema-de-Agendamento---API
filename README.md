@@ -1,5 +1,5 @@
 # App-Agendamento-Membros-API
-API de membros/cliente para o App Agendamentos
+API de membros/cliente para o App Agendamentos com Swagger
 
 # Classes
 - Membro
