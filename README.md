@@ -21,3 +21,7 @@ API de membros/cliente para o App Agendamentos com Swagger
 - nome	string
 - sobrenome	string
 }
+
+
+
+<img src="./swagger.PNG" width="250px" >
