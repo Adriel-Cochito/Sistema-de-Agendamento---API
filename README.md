@@ -22,6 +22,14 @@ API de membros/cliente para o App Agendamentos com Swagger
 - sobrenome	string
 }
 
+## Tela inicial do Swagger da aplicação
+<img src="./imagens/swagger.PNG" width="80%" >
 
+## Tela de métodos da classe Detalhes do Swagger da aplicação
+<img src="./imagens/swagger-metodos-detalhe.PNG" width="80%" >
 
-<img src="./swagger.PNG" width="90%" >
+## Tela de métodos da classe Membros do Swagger da aplicação
+<img src="./imagens/swagger-metodos-membro.PNG" width="80%" >
+
+## Tela de modelos do Swagger da aplicação
+<img src="./imagens/swagger-modelos.PNG" width="80%" >
