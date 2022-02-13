@@ -25,3 +25,12 @@ API de membros/cliente para o App Agendamentos com Swagger
 
 
 <img src="./imagens/swagger.PNG" width="90%" >
+
+
+<img src="./imagens/swagger-metodos-detalhe.PNG" width="90%" >
+
+
+<img src="./imagens/swagger-metodos-membro.PNG" width="90%" >
+
+
+<img src="./imagens/swagger-modelos.PNG" width="90%" >
