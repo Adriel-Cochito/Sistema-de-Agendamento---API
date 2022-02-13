@@ -24,4 +24,4 @@ API de membros/cliente para o App Agendamentos com Swagger
 
 
 
-<img src="./swagger.PNG" width="90%" >
+<img src="./imagens/swagger.PNG" width="90%" >
